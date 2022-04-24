@@ -1,0 +1,28 @@
+.hero-img{
+    display: none;
+}
+.hero {
+    
+  
+    grid-template-columns: minmax(300px, 500px);
+    justify-content: center;
+}
+.dishes-grid {
+    grid-template-columns: repeat(auto-fit, minmax(75px, 100px));
+}
+.info p{
+    margin: 0 10px;
+}
+.info button {
+    justify-items: center;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.info button{
+    margin-top: 30px;
+    width: fit-content;
+}
