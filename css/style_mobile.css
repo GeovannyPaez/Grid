@@ -18,3 +18,9 @@ nav ul li{
 nav ul li a {
     font-size: 1.5rem;
 }
+.hero{
+    margin-top: 80px;
+}
+.info{
+    margin-left: 15px;
+}

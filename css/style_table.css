@@ -35,7 +35,7 @@ a.active , li a:hover{
 }
 .hero {
     
-  
+    margin-top: 80px;
     grid-template-columns: minmax(300px, 500px);
     justify-content: center;
 }
